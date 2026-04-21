@@ -23,7 +23,7 @@ It is used as a **structured subset** to simulate Big Data analytics concepts su
 
 ---
 
-## 🧹 Data Preprocessing
+## Data Preprocessing
 
 The dataset was cleaned and transformed before analysis:
 
@@ -38,13 +38,13 @@ The dataset was cleaned and transformed before analysis:
 
 ---
 
-## ⚠️ Note
+##  Note
 
 Due to size limitations on GitHub, a **sample dataset** is provided instead of the full dataset.
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This dataset is used to:
 
@@ -54,7 +54,7 @@ This dataset is used to:
 
 ---
 
-## 📌 Usage
+##  Usage
 
 The dataset can be loaded using:
 
@@ -65,6 +65,6 @@ df = pd.read_csv("retail_sample.csv")
 
 ---
 
-## 🔒 Disclaimer
+##  Disclaimer
 
 This dataset is used for **educational purposes only** and does not represent real business data.
