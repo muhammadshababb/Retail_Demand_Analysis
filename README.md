@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project analyzes retail sales data to uncover actionable business insights across product categories, customer segments, countries, and time-based trends.
 
@@ -12,7 +12,7 @@ It demonstrates core **Big Data Analytics concepts** using a structured **ETL pi
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Identify high-performing product categories
 * Analyze customer segments and purchasing behavior
@@ -22,7 +22,7 @@ It demonstrates core **Big Data Analytics concepts** using a structured **ETL pi
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Category        | Tools Used       |
 | --------------- | ---------------- |
@@ -44,12 +44,12 @@ It demonstrates core **Big Data Analytics concepts** using a structured **ETL pi
 
 ## 📊 Analysis Approach
 
-### 🧠 SQL-Based Analysis
+### SQL-Based Analysis
 
 * Product Category Revenue (aggregation using GROUP BY)
 * Monthly Sales Trend (time-based aggregation)
 
-### 📈 Pandas-Based Analysis
+### Pandas-Based Analysis
 
 * Country-wise Sales Distribution
 * Customer Segment Performance
@@ -70,7 +70,7 @@ It demonstrates core **Big Data Analytics concepts** using a structured **ETL pi
 
 ## 📁 Dataset
 
-⚠️ Due to size limitations, a **sample dataset** is included in this repository.
+ Due to size limitations, a **sample dataset** is included in this repository.
 
 ---
 
@@ -98,7 +98,7 @@ The analysis provides meaningful insights into customer behavior, product perfor
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Build interactive dashboards using Power BI or Streamlit
 * Apply Machine Learning for demand forecasting
