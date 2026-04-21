@@ -47,7 +47,6 @@ It demonstrates core **Big Data Analytics concepts** using a structured **ETL pi
 ### SQL-Based Analysis
 
 * Product Category Revenue (aggregation using GROUP BY)
-* Monthly Sales Trend (time-based aggregation)
 
 ### Pandas-Based Analysis
 
@@ -68,7 +67,7 @@ It demonstrates core **Big Data Analytics concepts** using a structured **ETL pi
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
  Due to size limitations, a **sample dataset** is included in this repository.
 
