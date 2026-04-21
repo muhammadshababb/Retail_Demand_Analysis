@@ -60,7 +60,7 @@ The dataset can be loaded using:
 
 ```python
 import pandas as pd
-df = pd.read_csv("data/retail_sample.csv")
+df = pd.read_csv("retail_sample.csv")
 ```
 
 ---
