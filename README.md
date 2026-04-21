@@ -42,18 +42,6 @@ It demonstrates core **Big Data Analytics concepts** using a structured **ETL pi
 
 ---
 
-## 📊 Sample Visualizations
-
-### 📌 Sales by Product Category
-
-![Sales by Category](images/category.png)
-
-### 📌 Monthly Sales Trend
-
-![Monthly Trend](images/monthly.png)
-
----
-
 ## 📊 Analysis Approach
 
 ### 🧠 SQL-Based Analysis
@@ -92,11 +80,11 @@ It demonstrates core **Big Data Analytics concepts** using a structured **ETL pi
 Retail_Demand_Analysis/
 │── data/
 │   └── retail_sample.csv
-│── notebook/
-│   └── analysis.ipynb
 │── images/
 │   ├── category.png
 │   ├── monthly.png
+│── notebook/
+│   └── analysis.ipynb
 │── README.md
 ```
 
